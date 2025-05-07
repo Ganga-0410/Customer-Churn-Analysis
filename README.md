@@ -2,6 +2,9 @@
 
 This project focuses on analyzing customer behavior and predicting churn using a real-world dataset. It includes data preprocessing, exploratory data analysis (EDA), data visualization, and machine learning model evaluation to identify key factors influencing customer retention.
 
+![image](https://github.com/user-attachments/assets/ecbced41-87e2-455c-9d48-bfbb5f62428e)
+
+
 ---
 
 ## 🔍 Project Overview
